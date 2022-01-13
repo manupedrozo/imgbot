@@ -1,0 +1,5 @@
+.virtualenv
+__pycache__
+/data
+/config/config.json
+/img
